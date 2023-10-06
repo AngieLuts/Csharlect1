@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dima0\\Desktop\\c#lect1\\example001HelloConsole\\example001HelloConsole.csproj": {}
+    "c:\\Users\\dima0\\Desktop\\c#lect1\\example001HelloConsole\\example001HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dima0\\Desktop\\c#lect1\\example001HelloConsole\\example001HelloConsole.csproj": {
+    "c:\\Users\\dima0\\Desktop\\c#lect1\\example001HelloConsole\\example001HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dima0\\Desktop\\c#lect1\\example001HelloConsole\\example001HelloConsole.csproj",
+        "projectUniqueName": "c:\\Users\\dima0\\Desktop\\c#lect1\\example001HelloConsole\\example001HelloConsole.csproj",
         "projectName": "example001HelloConsole",
-        "projectPath": "C:\\Users\\dima0\\Desktop\\c#lect1\\example001HelloConsole\\example001HelloConsole.csproj",
+        "projectPath": "c:\\Users\\dima0\\Desktop\\c#lect1\\example001HelloConsole\\example001HelloConsole.csproj",
         "packagesPath": "C:\\Users\\dima0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dima0\\Desktop\\c#lect1\\example001HelloConsole\\obj\\",
+        "outputPath": "c:\\Users\\dima0\\Desktop\\c#lect1\\example001HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dima0\\AppData\\Roaming\\NuGet\\NuGet.Config"
